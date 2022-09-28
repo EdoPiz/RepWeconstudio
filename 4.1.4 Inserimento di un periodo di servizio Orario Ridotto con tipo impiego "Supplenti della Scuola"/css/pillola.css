@@ -1,0 +1,908 @@
+div.Stage_step_page {
+    width: 1200px;
+    height: 620px;
+}
+
+div.Stage_step_bkg {
+   width: 1200px;
+    height: 620px;
+}
+
+div.Stage_step_testo_passo_extra {
+    display: table-cell;
+    position: absolute;
+    margin: 0px;
+    right: auto;
+    bottom: auto;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12.7px;
+    font-weight: 700;
+    color: rgb(116, 116, 116);
+    font-style: normal;
+    word-wrap: break-word;
+    text-align: left;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    transform: translateZ(0px);
+    left: 753px;
+    top: 535px;
+    width: 415px;
+    height: 20px;
+    vertical-align: middle;
+    z-index: 100;
+    /*border-width: 1px;
+    border-color: yellow;
+    border-style: solid;*/
+}#Stage_step0_bkg {
+    background-image: url("../images/pages/0.png");
+}
+
+#Stage_step0_1_giallo {
+    left: 91px;
+    top: 105px;
+    width: 444px;
+    height: 16px;
+}
+#Stage_step0_2_giallo {
+    left: 90px;
+    top: 86px;
+    width: 91px;
+    height: 15px;
+}
+
+#Stage_step0_freccia {
+    left: 538px;
+    top: 78px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}
+#Stage_step1_bkg {
+    background-image: url("../images/pages/1.png");
+}
+
+#Stage_step1_1_giallo {
+    left: 33px;
+    top: 295px;
+    width: 1116px;
+    height: 322px;
+}
+
+#Stage_step1_freccia {
+    left: 550px;
+    top: 195px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(90deg) scale(1, 1);
+}#Stage_step2_bkg {
+    background-image: url("../images/pages/2.png");
+}
+
+#Stage_step2_1_giallo {
+    left: 33px;
+    top: 103px;
+    width: 1119px;
+    height: 514px;
+}
+
+#Stage_step2_freccia {
+    left: 550px;
+    top: 0px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(90deg) scale(1, 1);
+}
+#Stage_step3_bkg {
+    background-image: url("../images/pages/3.png");
+}
+
+#Stage_step3_1_giallo {
+    left: 184px;
+    top: 85px;
+    width: 93px;
+    height: 16px;
+}
+#Stage_step3_2_giallo {
+    left: 184px;
+    top: 105px;
+    width: 272px;
+    height: 15px;
+}
+
+#Stage_step3_freccia {
+    left: 460px;
+    top: 77px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}
+#Stage_step4_bkg {
+    background-image: url("../images/pages/4.png");
+}
+
+#Stage_step4_1_giallo {
+    left: 399px;
+    top: 252px;
+    width: 17px;
+    height: 17px;
+}
+
+#Stage_step4_freccia {
+    left: 425px;
+    top: 226px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}#Stage_step5_bkg {
+    background-image: url("../images/pages/5.png");
+}
+
+#Stage_step5_1_giallo {
+    left: 415px;
+    top: 100px;
+    width: 213px;
+    height: 15px;
+}
+
+#Stage_step5_freccia {
+    left: 634px;
+    top: 71px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}
+#Stage_step6_bkg {
+    background-image: url("../images/pages/6.png");
+}
+
+#Stage_step6_1_giallo {
+    left: 1065px;
+    top: 48px;
+    width: 28px;
+    height: 13px;
+}
+
+#Stage_step6_freccia {
+    left: 950px;
+    top: 21px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}
+#Stage_step7_bkg {
+    background-image: url("../images/pages/7.png");
+}
+
+#Stage_step7_1_giallo {
+    left: 411px;
+    top: 270px;
+    width: 12px;
+    height: 12px;
+}
+
+#Stage_step7_freccia {
+    left: 295px;
+    top: 240px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}
+#Stage_step8_bkg {
+    background-image: url("../images/pages/8.png");
+}
+
+#Stage_step8_1_giallo {
+    left: 38px;
+    top: 316px;
+    width: 76px;
+    height: 15px;
+}
+
+#Stage_step8_freccia {
+    left: 115px;
+    top: 289px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}
+#Stage_step9_bkg {
+    background-image: url("../images/pages/9.png");
+}
+
+#Stage_step9_1_giallo {
+    left: 315px;
+    top: 318px;
+    width: 73px;
+    height: 13px;
+}
+
+#Stage_step9_freccia {
+    left: 196px;
+    top: 288px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}#Stage_step10_bkg {
+    background-image: url("../images/pages/10.png");
+}
+
+#Stage_step10_1_giallo {
+    left: 328px;
+    top: 356px;
+    width: 17px;
+    height: 18px;
+}
+
+#Stage_step10_freccia {
+    left: 350px;
+    top: 330px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}#Stage_step11_bkg {
+    background-image: url("../images/pages/11.png");
+}
+
+#Stage_step11_1_giallo {
+    left: 413px;
+    top: 258px;
+    width: 698px;
+    height: 24px;
+}
+
+#Stage_step11_freccia {
+    left: 295px;
+    top: 236px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}#Stage_step12_bkg {
+    background-image: url("../images/pages/12.png");
+}
+
+#Stage_step12_1_giallo {
+    left: 644px;
+    top: 360px;
+    width: 62px;
+    height: 13px;
+}
+
+#Stage_step12_freccia {
+    left: 527px;
+    top: 330px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}
+#Stage_step13_bkg {
+    background-image: url("../images/pages/13.png");
+}
+
+#Stage_step13_1_giallo {
+    left: 325px;
+    top: 342px;
+    width: 18px;
+    height: 18px;
+}
+
+#Stage_step13_freccia {
+    left: 350px;
+    top: 315px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}
+#Stage_step14_bkg {
+    background-image: url("../images/pages/14.png");
+}
+
+#Stage_step14_1_giallo {
+    left: 412px;
+    top: 223px;
+    width: 697px;
+    height: 26px;
+}
+
+#Stage_step14_freccia {
+    left: 295px;
+    top: 202px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}
+#Stage_step15_bkg {
+    background-image: url("../images/pages/15.png");
+}
+
+#Stage_step15_1_giallo {
+    left: 325px;
+    top: 475px;
+    width: 19px;
+    height: 18px;
+}
+
+#Stage_step15_freccia {
+    left: 348px;
+    top: 448px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}#Stage_step16_bkg {
+    background-image: url("../images/pages/16.png");
+}
+
+#Stage_step16_1_giallo {
+    left: 412px;
+    top: 167px;
+    width: 700px;
+    height: 24px;
+}
+
+#Stage_step16_freccia {
+    left: 295px;
+    top: 143px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}#Stage_step17_bkg {
+    background-image: url("../images/pages/17.png");
+}
+
+#Stage_step17_1_giallo {
+    left: 471px;
+    top: 398px;
+    width: 204px;
+    height: 30px;
+}
+
+#Stage_step17_freccia {
+    left: 355px;
+    top: 377px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}
+#Stage_step18_bkg {
+    background-image: url("../images/pages/18.png");
+}
+
+#Stage_step18_1_giallo {
+    left: 136px;
+    top: 359px;
+    width: 92px;
+    height: 15px;
+}
+#Stage_step18_2_giallo {
+    left: 668px;
+    top: 359px;
+    width: 92px;
+    height: 15px;
+}
+
+#Stage_step18_freccia {
+    left: 400px;
+    top: 450px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(270deg) scale(1, 1);
+}
+
+#Stage_step19_bkg {
+    background-image: url("../images/pages/19.png");
+}
+
+#Stage_step19_1_giallo {
+    left: 1028px;
+    top: 136px;
+    width: 36px;
+    height: 16px;
+}
+
+#Stage_step19_freccia {
+    left: 915px;
+    top: 109px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}
+#Stage_step20_bkg {
+    background-image: url("../images/pages/20.png");
+}
+
+#Stage_step20_1_giallo {
+    left: 652px;
+    top: 380px;
+    width: 68px;
+    height: 21px;
+}
+
+#Stage_step20_freccia {
+    left: 725px;
+    top: 355px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}#Stage_step21_bkg {
+    background-image: url("../images/pages/21.png");
+}
+
+#Stage_step21_1_giallo {
+    left: 184px;
+    top: 104px;
+    width: 275px;
+    height: 17px;
+}
+#Stage_step21_2_giallo {
+    left: 184px;
+    top: 87px;
+    width: 92px;
+    height: 13px;
+}
+
+#Stage_step21_freccia {
+    left: 465px;
+    top: 76px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}
+#Stage_step22_bkg {
+    background-image: url("../images/pages/22.png");
+}
+
+#Stage_step22_1_giallo {
+    left: 399px;
+    top: 252px;
+    width: 18px;
+    height: 18px;
+}
+
+#Stage_step22_freccia {
+    left: 425px;
+    top: 226px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}
+#Stage_step23_bkg {
+    background-image: url("../images/pages/23.png");
+}
+
+#Stage_step23_1_giallo {
+    left: 416px;
+    top: 101px;
+    width: 213px;
+    height: 14px;
+}
+
+#Stage_step23_freccia {
+    left: 295px;
+    top: 70px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}
+#Stage_step24_bkg {
+    background-image: url("../images/pages/24.png");
+}
+
+#Stage_step24_1_giallo {
+    left: 1065px;
+    top: 48px;
+    width: 28px;
+    height: 13px;
+}
+
+#Stage_step24_freccia {
+    left: 1025px;
+    top: 90px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(270deg) scale(1, 1);
+}
+#Stage_step25_bkg {
+    background-image: url("../images/pages/25.png");
+}
+
+#Stage_step25_1_giallo {
+    left: 411px;
+    top: 282px;
+    width: 11px;
+    height: 11px;
+}
+
+#Stage_step25_freccia {
+    left: 295px;
+    top: 251px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}
+#Stage_step26_bkg {
+    background-image: url("../images/pages/26.png");
+}
+
+#Stage_step26_1_giallo {
+    left: 329px;
+    top: 358px;
+    width: 16px;
+    height: 16px;
+}
+
+#Stage_step26_freccia {
+    left: 350px;
+    top: 331px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}#Stage_step27_bkg {
+    background-image: url("../images/pages/27.png");
+}
+
+#Stage_step27_1_giallo {
+    left: 413px;
+    top: 243px;
+    width: 695px;
+    height: 26px;
+}
+
+#Stage_step27_freccia {
+    left: 295px;
+    top: 223px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}
+#Stage_step28_bkg {
+    background-image: url("../images/pages/28.png");
+}
+
+#Stage_step28_1_giallo {
+    left: 35px;
+    top: 333px;
+    width: 277px;
+    height: 12px;
+}
+#Stage_step28_2_giallo {
+    left: 35px;
+    top: 370px;
+    width: 278px;
+    height: 12px;
+}
+#Stage_step28_3_giallo {
+    left: 645px;
+    top: 253px;
+    width: 61px;
+    height: 13px;
+}
+
+#Stage_step28_freccia {
+    left: 330px;
+    top: 320px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}
+#Stage_step29_bkg {
+    background-image: url("../images/pages/29.png");
+}
+
+#Stage_step29_1_giallo {
+    left: 467px;
+    top: 370px;
+    width: 212px;
+    height: 32px;
+}
+
+#Stage_step29_freccia {
+    left: 520px;
+    top: 268px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(90deg) scale(1, 1);
+}
+#Stage_step30_bkg {
+    background-image: url("../images/pages/30.png");
+}
+
+#Stage_step30_1_giallo {
+    left: 667px;
+    top: 514px;
+    width: 92px;
+    height: 13px;
+}
+#Stage_step30_2_giallo {
+    left: 136px;
+    top: 514px;
+    width: 92px;
+    height: 13px;
+}
+
+#Stage_step30_freccia {
+    left: 490px;
+    top: 475px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}
+
+#Stage_step30 .Stage_step_bg_player{
+    left: 750px;
+    width: 405px;
+    height: 125px;
+}
+#Stage_step30 .Stage_step_testo_passo{
+    left: 830px;
+    width: 247px;
+}
+#Stage_step30 .Stage_step_avanti{
+    left: 1085px;
+}
+#Stage_step30 .Stage_step_veloce{
+    left: 1120px;
+}
+#Stage_step30 .Stage_step_indietro{
+    left: 790px;
+}
+#Stage_step30 .Stage_step_riavvolgi{
+    left: 755px;
+}
+#Stage_step30 .Stage_step_testo_numpasso{
+    left: 1087px;
+}
+#Stage_step30 .Stage_step_bg_numpassi{
+    left: 1085px;
+}
+    
+
+#Stage_step31_bkg {
+    background-image: url("../images/pages/31.png");
+}
+
+#Stage_step31_1_giallo {
+    left: 1028px;
+    top: 157px;
+    width: 35px;
+    height: 17px;
+}
+
+#Stage_step31_freccia {
+    left: 915px;
+    top: 129px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}
+#Stage_step32_bkg {
+    background-image: url("../images/pages/32.png");
+}
+
+#Stage_step32_1_giallo {
+    left: 652px;
+    top: 378px;
+    width: 71px;
+    height: 23px;
+}
+
+#Stage_step32_freccia {
+    left: 725px;
+    top: 353px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}
+#Stage_step33_bkg {
+    background-image: url("../images/pages/33.png");
+}
+
+#Stage_step33_1_giallo {
+    left: 410px;
+    top: 294px;
+    width: 11px;
+    height: 11px;
+}
+
+#Stage_step33_freccia {
+    left: 295px;
+    top: 264px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}
+#Stage_step34_bkg {
+    background-image: url("../images/pages/34.png");
+}
+
+#Stage_step34_1_giallo {
+    left: 35px;
+    top: 196px;
+    width: 278px;
+    height: 12px;
+}
+#Stage_step34_2_giallo {
+    left: 35px;
+    top: 232px;
+    width: 278px;
+    height: 12px;
+}
+#Stage_step34_3_giallo {
+    left: 325px;
+    top: 196px;
+    width: 18px;
+    height: 16px;
+}
+#Stage_step34_4_giallo {
+    left: 325px;
+    top: 232px;
+    width: 18px;
+    height: 16px;
+}
+#Stage_step34_5_giallo {
+    left: 136px;
+    top: 402px;
+    width: 93px;
+    height: 13px;
+}
+#Stage_step34_6_giallo {
+    left: 668px;
+    top: 403px;
+    width: 92px;
+    height: 14px;
+}
+#Stage_step34_7_giallo {
+    left: 37px;
+    top: 114px;
+    width: 279px;
+    height: 12px;
+}
+#Stage_step34_8_giallo {
+    left: 328px;
+    top: 114px;
+    width: 19px;
+    height: 16px;
+}
+#Stage_step34_9_giallo{
+    left: 642px;
+    top: 115px;
+    width: 64px;
+    height: 15px;
+}
+
+
+#Stage_step34_freccia {
+    left: 880px;
+    top: 240px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}
+#Stage_step35_bkg {
+    background-image: url("../images/pages/35.png");
+}
+#Stage_step35_1_giallo {
+    left: 470px;
+    top: 258px;
+    width: 206px;
+    height: 33px;
+}
+#Stage_step35_freccia {
+    left: 523px;
+    top: 313px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(270deg) scale(1, 1);
+}
+#Stage_step36_bkg {
+    background-image: url("../images/pages/36.png");
+}
+
+#Stage_step36_1_giallo {
+    left: 651px;
+    top: 379px;
+    width: 70px;
+    height: 22px;
+}
+
+#Stage_step36_freccia {
+    left: 730px;
+    top: 354px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}
+#Stage_step37_bkg {
+    background-image: url("../images/pages/37.png");
+}
+
+#Stage_step37_1_giallo {
+    left: 35px;
+    top: 435px;
+    width: 20px;
+    height: 20px;
+}
+
+#Stage_step37_freccia {
+    left: 60px;
+    top: 411px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}#Stage_step38_bkg {
+    background-image: url("../images/pages/38.png");
+}
+
+#Stage_step38_1_giallo {
+    left: 35px;
+    top: 494px;
+    width: 20px;
+    height: 20px;
+}
+
+#Stage_step38_freccia {
+    left: 60px;
+    top: 472px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}#Stage_step39_bkg {
+    background-image: url("../images/pages/39.png");
+}
+
+#Stage_step39_1_giallo {
+    left: 36px;
+    top: 420px;
+    width: 20px;
+    height: 20px;
+}
+
+#Stage_step39_freccia {
+    left: 60px;
+    top: 395px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(180deg) scale(1, 1);
+}#Stage_step40_bkg {
+    background-image: url("../images/pages/40.png");
+}
+
+#Stage_step40_1_giallo {
+    left: 58px;
+    top: 405px;
+    width: 15px;
+    height: 15px;
+}
+#Stage_step40_2_giallo {
+    left: 79px;
+    top: 449px;
+    width: 15px;
+    height: 15px;
+}
+
+#Stage_step40_freccia {
+    left: 100px;
+    top: 355px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(150deg) scale(1, 1);
+}
+#Stage_step41_bkg {
+    background-image: url("../images/pages/41.png");
+}
+
+#Stage_step41_1_giallo {
+    left: 415px;
+    top: 244px;
+    width: 386px;
+    height: 191px;
+}
+
+#Stage_step41_freccia {
+    left: 309px;
+    top: 259px;
+    transform: translate(0px, 0px) translateZ(0px) rotate(360deg) scale(1, 1);
+}
+
+/*RIDIMENSIONAMENTO PER I TESTI PIE' LUNGHI*/
+
+#Stage_step0_bg_player{
+    height: 105px;
+}
+#Stage_step1_bg_player{
+    height: 85px;
+}
+#Stage_step2_bg_player{
+    height: 85px;
+}
+#Stage_step4_bg_player{
+    height: 85px;
+}
+#Stage_step5_bg_player{
+    height: 85px;
+}
+#Stage_step7_bg_player{
+    height: 85px;
+}
+#Stage_step9_bg_player{
+    height: 85px;
+}
+#Stage_step10_bg_player{
+    height: 85px;
+}
+#Stage_step12_bg_player{
+    height: 85px;
+}
+#Stage_step18_bg_player{
+    height: 85px;
+}
+#Stage_step21_bg_player{
+    height: 85px;
+}
+#Stage_step22_bg_player{
+    height: 85px;
+}
+#Stage_step23_bg_player{
+    height: 85px;
+}
+#Stage_step25_bg_player{
+    height: 105px;
+}
+#Stage_step26_bg_player{
+    height: 85px;
+}
+#Stage_step28_bg_player{
+    height: 85px;
+}
+#Stage_step29_bg_player{
+    height: 85px;
+}
+#Stage_step30_bg_player{
+    height: 85px;
+}
+#Stage_step33_bg_player{
+    height: 85px;
+}
+#Stage_step34_bg_player{
+    height: 105px;
+}
+#Stage_step35_bg_player{
+    height: 85px;
+}
+#Stage_step40_bg_player{
+    height: 85px;
+}
+#Stage_step41_bg_player{
+    height: 85px;
+}
+#Stage_step42_bkg {
+	background-image: url("../images/pages/41.png");
+}
+
+#Stage_step42_1_giallo {
+	left: 0px;
+	top: 0px;
+	width: 0px;
+	height: 0px;
+}
+
+#Stage_step42_freccia {
+	left: 0px;
+	top: 0px;
+	transform: translate(0px, 0px) translateZ(0px) rotate(270deg) scale(1, 1);
+}
